@@ -1,0 +1,25 @@
+================= Bank Account Management Output =================
+---------------------
+Account ID: 104
+Name: Angel
+Balance: $900
+Transactions:
+  No transactions yet.
+---------------------
+Account ID: 103
+Name: Charlie
+Balance: $750
+Transactions:
+  No transactions yet.
+---------------------
+Account ID: 102
+Name: Bob
+Balance: $300
+Transactions:
+  No transactions yet.
+---------------------
+Account ID: 101
+Name: Alice
+Balance: $500
+Transactions:
+  No transactions yet.
